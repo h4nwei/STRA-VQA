@@ -1,2 +1,2 @@
 # STRA-VQA
-Official Implementation of STRA-VQA
+Coming soon
